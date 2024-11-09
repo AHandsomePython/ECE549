@@ -1,0 +1,5 @@
+Multiscale morphological segmentation of gray-scale images
+
+Morphological scale-space in image processing
+
+Segmentation of color textile images based on a multiscale context model

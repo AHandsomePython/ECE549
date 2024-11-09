@@ -1,0 +1,23 @@
+多通道，多scale处理 
+
+1. 高斯滤波器过滤
+
+2. 边缘检测
+
+3. 形态学处理二值图
+
+4. 区域分割（区域生长，分水岭算法）
+
+难点：怎么综合多通道和多尺度的分割结果？
+
+
+
+dataset
+
+
+Oxford Pets Dataset
+CamVid
+VOC (PASCAL Visual Object Classes) 
+Semantic Segmentation Dataset
+MS COCO (Common Objects in Context)
+
